@@ -1,0 +1,6 @@
+# presets written by gabarits.pyw at runtime
+designcraft/gabarits_presets.json
+
+# Python
+__pycache__/
+*.py[cod]
